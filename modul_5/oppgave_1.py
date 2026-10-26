@@ -5,3 +5,5 @@ def skriv_meny():
     print("3. Salat")
 
 skriv_meny()
+skriv_meny()
+skriv_meny()
